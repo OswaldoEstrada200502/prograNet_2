@@ -1,0 +1,27 @@
+*{
+	font-family: Century Gothic;
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	margin: 10px;
+}
+
+body{
+	background-color: dimgrey;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: justify;
+	margin: 5px;
+}
+
+nav{
+	border: 3px solid black;
+	width: 100%;
+}
