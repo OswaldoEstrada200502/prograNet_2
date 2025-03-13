@@ -1,0 +1,44 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	border-radius: 20%;
+}
+
+.container{
+	background-color: violet;
+	border-radius: 0%;
+}
+
+body{
+	background-color: beige;
+}
+
+header{
+	margin: 0.5%;
+	display: block;
+	height: 10vh;
+	background-color: seagreen;
+
+}
+
+main{
+	display: flex;
+	height: calc(88vh);
+}
+
+aside{
+	margin: 0.5%;
+	width: 50%;
+	background-color: dodgerblue;
+}
+
+section{
+	width: 50%;
+}
+
+article{
+	min-width: 250px;
+	margin-top: 1%;
+	height: 31.5%;
+	background-color: darkred;
+}
